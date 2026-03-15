@@ -1,0 +1,78 @@
+{
+    "load_power": {
+        "Refrigerator": 0.18,
+        "Sensor": 0.01,
+        "Air_conditioner": 1.15,
+        "Illumination": 0.5,
+        "Dishwasher": 1.7,
+        "Washing_machine": 1.8,
+        "Microwave": 1.7,
+        "Cooker_hood": 0.2,
+        "Iron": 2.7,
+        "Laptop": 0.1,
+        "Vacuum_cleaner": 2.0,
+        "Other_load": 3
+    },
+    "load_work_time": {
+        "Refrigerator": [
+            0,
+            24,
+            24
+        ],
+        "Sensor": [
+            0,
+            24,
+            24
+        ],
+        "Air_conditioner": [
+            12,
+            24,
+            12
+        ],
+        "Illumination": [
+            18,
+            24,
+            5
+        ],
+        "Dishwasher": [
+            8,
+            22,
+            1
+        ],
+        "Washing_machine": [
+            12,
+            24,
+            2
+        ],
+        "Microwave": [
+            7,
+            10,
+            1
+        ],
+        "Cooker_hood": [
+            16,
+            19,
+            1
+        ],
+        "Iron": [
+            5,
+            21,
+            2
+        ],
+        "Laptop": [
+            13,
+            24,
+            3
+        ],
+        "Vacuum_cleaner": [
+            7,
+            22,
+            1
+        ],
+        "Other_load": [
+            0,
+            24,
+            5
+        ]
+    }
+}
