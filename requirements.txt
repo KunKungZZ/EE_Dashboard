@@ -1,4 +1,3 @@
 pulp
-matplotlib
+plotly
 pandas
-numpy
