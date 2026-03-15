@@ -1,6 +1,5 @@
 import streamlit as st
 import pulp as pl
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import altair as alt
 import pandas as pd
